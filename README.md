@@ -51,12 +51,12 @@ Ensure the following tools and software are installed on your local development 
     }
 }
 
-``` bash
+
 python manage.py migrate
 python manage.py runserver
 
 #### For Frontend:
-``` bash
+
  cd ../frontend
  npm install
  npm start
