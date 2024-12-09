@@ -1,11 +1,11 @@
-##Project Overview
+## Project Overview
 This project involves creating a clone of Amazon's web application. It includes features such as user authentication, product listings, a shopping cart, and an inventory management system. The project is built using the following technologies:
 
 Backend: Django (Python)
 Frontend: React (JavaScript)
 Database: MySQL
 
-##Features
+## Features
 User Authentication (Sign Up, Login, Logout)
 Product Listing and Search
 Product Detail View
@@ -19,8 +19,8 @@ Warehouse Management
 User Management
 Multi Level Ecommerce Website
 Responsive Design
-##Getting Started
-#Prerequisites
+## Getting Started
+# Prerequisites
 Ensure you have the following installed on your local development machine:
 
 Python (>= 3.6)
