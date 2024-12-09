@@ -20,7 +20,7 @@ User Management
 Multi Level Ecommerce Website
 Responsive Design
 ## Getting Started
-# Prerequisites
+### Prerequisites
 Ensure you have the following installed on your local development machine:
 
 Python (>= 3.6)
