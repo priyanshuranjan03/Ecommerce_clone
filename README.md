@@ -21,16 +21,18 @@ Multi Level Ecommerce Website
 Responsive Design
 ## Getting Started
 ### Prerequisites
-Ensure you have the following installed on your local development machine:
+Ensure the following tools and software are installed on your local development machine:
 
-Python (>= 3.6)
-Node.js (>= 14.0)
-npm (>= 6.0)
-Django (>= 5.0)
-React (>= 17.0)
-MySQL Server
-#Installation
+- **Python** (>= 3.6)  
+- **Node.js** (>= 14.0)  
+- **npm** (>= 6.0)  
+- **Django** (>= 5.0)  
+- **React** (>= 17.0)  
+- **MySQL Server**
+
+## Installation
 1.Clone the Repository
+
   For Backend
    -cd backend
     python -m venv venv
