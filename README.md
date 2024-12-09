@@ -50,7 +50,7 @@ Ensure the following tools and software are installed on your local development 
         'PORT': '3306',
     }
 }
-```bash
+
 python manage.py migrate
 python manage.py runserver
 
