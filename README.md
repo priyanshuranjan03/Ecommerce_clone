@@ -33,13 +33,14 @@ Ensure the following tools and software are installed on your local development 
 ## Installation
 1.Clone the Repository
 
-  For Backend
-   -cd backend
+  #### For Backend:
+    ```bash
+    cd backend
     python -m venv venv
     source ../venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     pip install -r requirements.txt
 
-DATABASES = {
+#### DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'your_database_name',
@@ -54,7 +55,7 @@ DATABASES = {
 python manage.py migrate
 python manage.py runserver
 
-For Frontend
+#### For Frontend
  cd ../frontend
  npm install
  npm start
