@@ -34,7 +34,7 @@ Ensure the following tools and software are installed on your local development 
 1.Clone the Repository
 
   #### For Backend:
-    ```bash
+
     cd backend
     python -m venv venv
     source ../venv/bin/activate  # On Windows, use `venv\Scripts\activate`
@@ -51,11 +51,12 @@ Ensure the following tools and software are installed on your local development 
     }
 }
 
-
+``` bash
 python manage.py migrate
 python manage.py runserver
 
-#### For Frontend
+#### For Frontend:
+``` bash
  cd ../frontend
  npm install
  npm start
